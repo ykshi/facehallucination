@@ -1,7 +1,7 @@
 
 
 # Description
-This is the implementation of Qingxing Cao et al.'s CVPR-17 work [Attention-Aware Face Hallucination via Deep Reinforcement Learning](https://arxiv.org/abs/1708.03132). If you have any questions or suggestions of this work, please feel free to contact the authors by sending email to 'caoqxATmail2.sysu.edu.cn' or 'shiyk3ATmail2.sysu.edu.cn'.
+This is the implementation of Qingxing Cao et al.'s CVPR-17 work [Attention-Aware Face Hallucination via Deep Reinforcement Learning](https://arxiv.org/abs/1708.03132). If you have any questions or suggestions of this work, please feel free to contact the authors by sending email to `caoqxATmail2.sysu.edu.cn` or `shiyk3ATmail2.sysu.edu.cn`.
 
 # Citation
 Please cite Attention-FH in your publications if it helps your research:
